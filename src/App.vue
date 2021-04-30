@@ -2,8 +2,6 @@
 
   <Navbar />
 
-  <!-- <Carousel /> -->
-
   <div id="app">
 
     <router-view></router-view>
@@ -13,14 +11,12 @@
 <script>
 
 import Navbar from './components/Layout/Navbar.vue'
-import Carousel from './components/Misc/Carousel.vue'
 
 export default {
   name: "App",
 
   components: {
     Navbar,
-    Carousel,
   }
 }
 </script>
