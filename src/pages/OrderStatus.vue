@@ -40,7 +40,6 @@
                                  src="https://images.unsplash.com/photo-1555982105-d25af4182e4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=400&amp;h=400&amp;q=80">
                             <div class='py-4'>
                                 <p class="text-md font-light text-gray-700">Product name</p>
-                                <span class="text-xs cursor-pointer font-light text-gray-400">delete ?</span>
                             </div>
                         </div>
                         <div class="flex items-center">
@@ -50,9 +49,7 @@
                         </div>
                         <div class="flex items-center">
                             <div class="text-center w-full">
-                                <button class="px-4 md:w-auto text-gray-700">-</button>
                                 1
-                                <button class="px-4 md:w-auto text-gray-700">+</button>
                             </div>
                         </div>
                         <p class="flex items-center justify-end text-gray-600">

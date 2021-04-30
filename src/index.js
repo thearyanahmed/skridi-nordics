@@ -12,4 +12,4 @@ const app = createApp(App)
 app.use(createStore(store))
 app.use(router)
 
-app.mount("#vue3-starter")
+app.mount("#app")
