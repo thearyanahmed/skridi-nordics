@@ -2,9 +2,9 @@
     <div class="max-w-2xl mx-auto my-40">
         <div class="flex flex-col">
             <div class="text-green-400">
-                <form action="" class="flex flex-col">
+                <form action="#" class="flex flex-col">
 
-                    <input type="text" class="px-6 py-2 border border-1 border-gray-500" required>
+                    <input type="text" placeholder="Type in your order id" class="px-6 py-2 border border-1 border-gray-500" required>
 
                     <button class="mt-4 px-6 py-2 w-64 mx-auto bg-gray-700 text-white">Search</button>
 
