@@ -43,7 +43,7 @@
                         <button class="px-4 md:w-auto text-gray-700">+</button>
                     </div>
                 </div>
-                <p class="text-right text-gray-600">
+                <p class="flex items-center justify-end text-gray-600">
                     ${{ Number(i * 3 + 10).toLocaleString() }}
                 </p>
             </div>
