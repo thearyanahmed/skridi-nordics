@@ -1,4 +1,4 @@
-# Vue 3 Starter Project
+# SKRIDI NORDICS
 
 Skridi nordic is a frontend for skridi.com headless e-commerce.
 
